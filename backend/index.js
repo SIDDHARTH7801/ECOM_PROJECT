@@ -23,7 +23,7 @@ app.get("*", (req, res) => {
     res.status(404).json("not found")
 })
 
-const port = process.env.PORT || 8080
+const port = process.env.PORT
 app.listen(port, async () => {
     try {
         await connection;
