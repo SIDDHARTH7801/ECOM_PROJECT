@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<h1 align="center">Meesho Clone</h1>
+<h1 align="center">Pahervesh Clone</h1>
 
 <h3 align="center">It's a MERN Stack E-commerce web application with all the major functionalities</h3>
 
@@ -40,19 +40,19 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
-<h3 align="center"><a href="https://meesho-clone-mauve.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
+<h3 align="center"><a href="https://Pahervesh-clone-mauve.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
 
 <p align="center">
   <br />&#10023;
   <a href="#Demo">View Demo</a> &#10023;
-  <a href="https://github.com/AshokPrjapati/Meesho-clone/issues">Report Bug</a> &#10023;
+  <a href="https://github.com/AshokPrjapati/Pahervesh/issues">Report Bug</a> &#10023;
   <a href="#Getting-Started">Getting Started</a> &#10023; 
   <a href="#Install">Installing</a> &#10023;
   <a href="#Contact">Author</a> &#10023;
 </p>
 
 
-Meesho Clone is MERN Stack e-commerce web application that allows you to buy clothes & beauty products online. It has a variety of categories, just visit the product page and you will see all the product details, apply filters as per your need and in just a few clicks you can buy any products from the website. This project is just for educational purpose.
+Pahervesh is MERN Stack e-commerce web application that allows you to buy clothes & beauty products online. It has a variety of categories, just visit the product page and you will see all the product details, apply filters as per your need and in just a few clicks you can buy any products from the website. This project is just for educational purpose.
 
 
 
@@ -88,7 +88,7 @@ Meesho Clone is MERN Stack e-commerce web application that allows you to buy clo
 
 <br />
 
-## Glimpses of Meesho-Clone 🙈 :
+## Glimpses of Pahervesh 🙈 :
 
 
 <table>
@@ -119,19 +119,19 @@ This project was built using Next.js, Redux, Chakra UI, HTML, CSS, JavaScript, R
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/AshokPrjapati/Meesho-clone) or just clone the project using this command.
+The project repository can be found in [GitHub link](https://github.com/) or just clone the project using this command.
 
 
 ```
 Using HTTPS
 
-# git clone https://github.com/AshokPrjapati/Meesho-clone.git
+# 
 ```
 
 + Open terminal on your workspace with
 
 ```
-cd /home/workspace/Meesho-clone
+cd /home/workspace/Pahervesh
 ```
 
 

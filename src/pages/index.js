@@ -154,18 +154,18 @@ export default function Home({ data }) {
           <Box  >
             <Footer />
             <div style={{ boxShadow: "rgba(100, 100, 111, 0.2) 0px 7px 29px 0px" }}>
-              <Button className={styles.desbtn} onClick={() => setdes(!des)}>More About Meesho {des ? <ChevronUpIcon /> : <ChevronDownIcon />} </Button>
+              <Button className={styles.desbtn} onClick={() => setdes(!des)}>More About Pahervesh {des ? <ChevronUpIcon /> : <ChevronDownIcon />} </Button>
               {des ? <div className={styles.description}>
                 <div>
-                  <Heading>Meesho: Affordable Online Shopping at Your Fingertips</Heading>
+                  <Heading>Pahervesh: Affordable Online Shopping at Your Fingertips</Heading>
                   <Text >
-                    There are many benefits of shopping online. You can take your time and look at different options to find exactly what you want. Its easy to compare prices online and find exactly what you are looking for. And now with Meesho, you can shop for anything you want at the lowest prices in the market.  Even if you want to shop for cool gifts for your friends and family, there are many options that you can find on the Internet.
+                    There are many benefits of shopping online. You can take your time and look at different options to find exactly what you want. Its easy to compare prices online and find exactly what you are looking for. And now with Pahervesh, you can shop for anything you want at the lowest prices in the market.  Even if you want to shop for cool gifts for your friends and family, there are many options that you can find on the Internet.
                   </Text>
                 </div>
                 <div>
                   <Heading>A Huge Selection of Products Across All Categories</Heading>
                   <Text >
-                    We have a vast inventory of products ranging from apparel to cosmetics to home utility and kitchen products and more. With over 50 lakh products and 650+ product categories, Meesho is sure to have everything you need. In our latest collections, you will find all the popular items at an affordable price, so you can be confident you are getting the best deal. Whether you are in the market for new clothes, accessories, or just some daily-use items for home, Meesho has what you need.
+                    We have a vast inventory of products ranging from apparel to cosmetics to home utility and kitchen products and more. With over 50 lakh products and 650+ product categories, Pahervesh is sure to have everything you need. In our latest collections, you will find all the popular items at an affordable price, so you can be confident you are getting the best deal. Whether you are in the market for new clothes, accessories, or just some daily-use items for home, Pahervesh has what you need.
                   </Text>
                 </div>
                 <div>
@@ -178,13 +178,13 @@ export default function Home({ data }) {
                 <div>
                   <Heading>Western Wear for Women</Heading>
                   <Text >
-                    Meesho is the best place to find fashionable and affordable western wear for women. With a constantly updating inventory of casual, formal, and partywear dresses, jeans, tops, T-shirts, skirts, and more, Meesho has all the latest trending outfits you are looking for--plus funky jewelry and accessories. You shall never have to worry about overspending or not being able to find something you love!
+                    Pahervesh is the best place to find fashionable and affordable western wear for women. With a constantly updating inventory of casual, formal, and partywear dresses, jeans, tops, T-shirts, skirts, and more, Pahervesh has all the latest trending outfits you are looking for--plus funky jewelry and accessories. You shall never have to worry about overspending or not being able to find something you love!
                   </Text>
                 </div>
                 <div>
                   <Heading>Accessories, Jewellery, and Footwear</Heading>
                   <Text >
-                    You may have your favorite outfit picked out but accessories can really add a sense of style and individuality that make you stand out! With so many types of accessories available, it can be difficult to find the perfect piece for yourself. Fortunately, Meesho has a wide variety of jewellery sets, handbags, belts, heels, casual footwear, watches, etc. With so many options, you shall be sure to find the perfect accessories for any outfit!
+                    You may have your favorite outfit picked out but accessories can really add a sense of style and individuality that make you stand out! With so many types of accessories available, it can be difficult to find the perfect piece for yourself. Fortunately, Pahervesh has a wide variety of jewellery sets, handbags, belts, heels, casual footwear, watches, etc. With so many options, you shall be sure to find the perfect accessories for any outfit!
                   </Text>
                 </div>
                 <div>
@@ -232,13 +232,13 @@ export default function Home({ data }) {
                 <div>
                   <Heading>Home Utility and Essentials</Heading>
                   <Text >
-                    Its always a good idea to switch up your home style every now and then - it keeps things fresh and also allows you to try out new trends. But of course, you never want to spend more money than you have to. That is where Meesho comes in! We have got amazing prices on all kinds of home furnishing items like bedsheets, curtains, cushions, and more. Plus, we have a constantly rotating selection of the best home decor items so you can always stay on top of the latest trends. So be sure to check out our home decor section today!
+                    Its always a good idea to switch up your home style every now and then - it keeps things fresh and also allows you to try out new trends. But of course, you never want to spend more money than you have to. That is where Pahervesh comes in! We have got amazing prices on all kinds of home furnishing items like bedsheets, curtains, cushions, and more. Plus, we have a constantly rotating selection of the best home decor items so you can always stay on top of the latest trends. So be sure to check out our home decor section today!
                   </Text>
                 </div>
                 <div>
                   <Heading>Electronics and Accessories</Heading>
                   <Text >
-                    Meesho, we give you access to a huge selection of gadgets and essentials for your electronic devices. Here you shall find everything from chargers and headphones to data cables and even external battery packs. Every month, we offer different sales and discounts on products, allowing you to save on your favorite essentials. Here you can find the perfect gift for everyone on your list without breaking your budget!
+                    Pahervesh, we give you access to a huge selection of gadgets and essentials for your electronic devices. Here you shall find everything from chargers and headphones to data cables and even external battery packs. Every month, we offer different sales and discounts on products, allowing you to save on your favorite essentials. Here you can find the perfect gift for everyone on your list without breaking your budget!
                   </Text>
                 </div>
                 <div>
@@ -254,28 +254,28 @@ export default function Home({ data }) {
                   </Text>
                 </div>
                 <div>
-                  <Heading>Get the Meesho App for Hassle Free Online Shopping </Heading>
+                  <Heading>Get the Pahervesh App for Hassle Free Online Shopping </Heading>
                   <Text >
-                    If you want a seamless shopping experience, you should also consider downloading Meesho’s App. While you may think that it is unnecessary to have an app for shopping, there are plenty of features that will make your life easier. If you find yourself preferring to shop from home, this is the app for you. It makes shopping online easier than ever. You can browse through a plethora of products and even get great deals with more discounts than you can count. You can even share products you like with your friends on social media in just seconds.
+                    If you want a seamless shopping experience, you should also consider downloading Pahervesh’s App. While you may think that it is unnecessary to have an app for shopping, there are plenty of features that will make your life easier. If you find yourself preferring to shop from home, this is the app for you. It makes shopping online easier than ever. You can browse through a plethora of products and even get great deals with more discounts than you can count. You can even share products you like with your friends on social media in just seconds.
                   </Text>
                 </div>
                 <Link href='/'>Download Pahervesh App Now</Link>
                 <div>
                   <Heading>Become a Reseller: Start Making Money In Three Simple Steps </Heading>
                   <Text >
-                    Now you know all about different categories and products Meesho has to offer. It is time to explore and understand Meesho’s reselling option. Apart from using Meesho as an online shopping platform, you also have the option to start your online business with us. Here’s how you can begin your entrepreneurial journey.
+                    Now you know all about different categories and products Pahervesh has to offer. It is time to explore and understand Pahervesh’s reselling option. Apart from using Pahervesh as an online shopping platform, you also have the option to start your online business with us. Here’s how you can begin your entrepreneurial journey.
 
-                    Browse: You can register for a new account or log in to an existing one on the Meesho app or website. Once you are logged in, you can browse through our catalog and select products that you want to purchase at wholesale rates!
+                    Browse: You can register for a new account or log in to an existing one on the Pahervesh app or website. Once you are logged in, you can browse through our catalog and select products that you want to purchase at wholesale rates!
 
                     Share: With a single click, you can share catalogs and product images over Whatsapp, Facebook, or Instagram to your contacts using the share option.
 
-                    Earn: After sharing the products and catalogs with your customers, you will start getting orders from them. You can add a profit margin to Meesho’s prices and quote that to your customers.This will be your profit. You can quote product prices with an added margin, which will include a profit for you. Once you place the orders on your customer’s behalf, Meesho will take care of the delivery process for you.
+                    Earn: After sharing the products and catalogs with your customers, you will start getting orders from them. You can add a profit margin to Pahervesh’s prices and quote that to your customers.This will be your profit. You can quote product prices with an added margin, which will include a profit for you. Once you place the orders on your customer’s behalf, Pahervesh will take care of the delivery process for you.
                   </Text>
                 </div>
                 <div>
-                  <Heading>Do not Miss Out! Start Shopping Online on Meesho Now</Heading>
+                  <Heading>Do not Miss Out! Start Shopping Online on Pahervesh Now</Heading>
                   <Text >
-                    Meesho offers multiple payment options including debit and credit cards, UPI, and COD to help you with a smooth checkout process. If you are unhappy with any of the products you order you can immediately return them and get a full refund with no questions asked. In case you have any queries or concerns, simply send us an email at query@meesho.com. Or you can contact us on social media through Facebook, Instagram, or Twitter. We are here to help you!.
+                    Pahervesh offers multiple payment options including debit and credit cards, UPI, and COD to help you with a smooth checkout process. If you are unhappy with any of the products you order you can immediately return them and get a full refund with no questions asked. In case you have any queries or concerns, simply send us an email at query@Pahervesh.com. Or you can contact us on social media through Facebook, Instagram, or Twitter. We are here to help you!.
                   </Text>
                 </div>
 
