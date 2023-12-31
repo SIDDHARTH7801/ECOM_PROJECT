@@ -220,14 +220,14 @@ const Success = () => {
   );
 };
 
-export async function getServerSideProps() {
-  let res = await axios.get(`http://localhost:8080/address`);
-  let data = await res.data;
-  return {
-    props: {
-      addressData: data,
-    }, // will be passed to the page component as props
-  };
-}
+// export async function getServerSideProps() {
+//   let res = await axios.get(`http://localhost:8080/address`);
+//   let data = await res.data;
+//   return {
+//     props: {
+//       addressData: data,
+//     }, // will be passed to the page component as props
+//   };
+// }
 
 export default Success;
